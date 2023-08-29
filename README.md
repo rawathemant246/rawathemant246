@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Hemant Rawat
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning  it
+- 👀 Python Developer, FARM STACK,  Machine Leanring, Deep Learning, Generative AI, LLMs
 - 📫 How to reach me via email : hemantrawat246@gmail.com
 
 <!---

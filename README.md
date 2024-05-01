@@ -2,8 +2,13 @@
 - 👀 Python Developer, FARM STACK,  Machine Leanring, Deep Learning, Generative AI, LLMs
 - 📫 How to reach me via email : hemantrawat246@gmail.com
 
-MY Skills
-[![My Skills](https://skillicons.dev/icons?i=python,docker,kubernetes,github,gitlab,aws,gcp,azure,aiscript,anaconda,bitbucket,debian,discord,fastapi,flask,kafka,)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,github,gitlab,aws,gcp,azure,aiscript,anaconda,bitbucket,debian,discord,fastapi,flask,kafka,pytorch,tensorflow,sklearn,selenium" />
+  </a>
+</p>
+
+
 
 <!---
 rawathemant246/rawathemant246 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

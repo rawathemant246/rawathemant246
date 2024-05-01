@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,github,gitlab,aws,gcp,azure,aiscript,anaconda,bitbucket,debian,discord,fastapi,flask,kafka,pytorch,tensorflow,sklearn,selenium" />
+    <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,github,gitlab,aws,gcp,azure,aiscript,anaconda,bitbucket,debian,fastapi,flask,kafka,pytorch,tensorflow,sklearn,selenium" />
   </a>
 </p>
 

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hemant Rawat
-- 👀 Python Developer, FARM STACK,  Machine Leanring, Deep Learning, Generative AI, LLMs
+- 👀  Machine Learning Engineer from India
 - 📫 How to reach me via email : hemantrawat246@gmail.com
 
 
